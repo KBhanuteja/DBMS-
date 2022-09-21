@@ -85,7 +85,7 @@ mysql> select cname,noofcourses from cor;
 +---------+-------------+
 | bhanu    |          24 |
 | teja     |          34 |
-| cherry    |           6 |
+| cherry   |           6 |
 | sastri   |          78 |
 +---------+-------------+
 
